@@ -1,4 +1,4 @@
-
+# Department Highest Salary
 
 # select d.name as Department, e.name as Employee,salary
 # from Employee e
