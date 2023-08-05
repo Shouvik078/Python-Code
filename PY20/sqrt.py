@@ -1,5 +1,4 @@
 # Matrix element searching 
-# Python3 code to demonstrate
 # Search in Matrix
 # using any() + list comprehension
 
